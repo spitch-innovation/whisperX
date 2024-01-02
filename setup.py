@@ -12,7 +12,7 @@ setup(
     readme="README.md",
     python_requires=">=3.8",
     author="Max Bain",
-    url="https://github.com/m-bain/whisperx",
+    url="https://github.com/spitch-innovation/whisperX",
     license="MIT",
     packages=find_packages(exclude=["tests*"]),
     install_requires=[
